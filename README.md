@@ -5,8 +5,11 @@
 </p>
 <h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
 - 🌱 I'm currently developing myself in **Software Developer**
+
 - 💬 Ask me about **C#, SQL, Java, Python, JavaScript/Node.js, Ruby, PHP, Go ,HTML and CSS**
+- 
 - 📫 How to reach me **devyunusemrebulut@gmail.com**
+- 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" height="50"> </h2>
 <p align="left">
   <a href="https://linkedin.com/in/devyunusemrebulut" target="blank">
