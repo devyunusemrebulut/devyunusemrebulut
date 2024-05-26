@@ -1,7 +1,7 @@
 <h1 align="center"> Hello I'm Yunus Emre<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"> </h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
-  <img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNscTVncWx0c211bzAyYmN2aThkM2owb3pxcGtsOWMyenE4dWJ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="@yunusemrebulut" height="350" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNscTVncWx0c211bzAyYmN2aThkM2owb3pxcGtsOWMyenE4dWJ0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="@yunusemrebulut" height="350" width="500" />
 </p>
 <h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
 
