@@ -28,87 +28,45 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer">
-
     <img src="https://user-images.githubusercontent.com/35347777/144943894-a3d077b8-0042-4063-9f10-8500388e35e0.png" alt="C#" width="40" height="40" />
-
   </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-
   </a>
-
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-
     <img src="https://user-images.githubusercontent.com/35347777/144944468-210f00f5-984e-4e1f-9fd8-1e0a93abea54.png" alt="selenium" width="40" height="40" />
-
   </a>
-
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-
   </a>
-
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-
     <img src="https://user-images.githubusercontent.com/35347777/144945936-798785c9-160c-4f28-8ba7-e9f400fb81ab.png" alt="cucumber" width="40" height="40" />
-
   </a>
-
   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-
   </a>
-
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-
   </a>
-
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-
   </a>
-
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-
   </a>
-
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" alt="intellij-idea" width="40" height="40" />
-
   </a>
-
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" width="40" height="40" />
-
   </a>
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-
   </a>
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-
   </a>
-
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-
   </a>
-
 </p>
