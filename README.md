@@ -1,4 +1,3 @@
-[17:28] Yunus Emre Bulut (BilgeAdam Boost)
 <h1 align="center"> Hello I'm Yunus Emre<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"> </h1>
 
 <h3 align="center">Software Developer</h3>
